@@ -1,0 +1,6 @@
+framework module MCSwipeTransition {
+  umbrella header "MCSwipeTransition-umbrella.h"
+
+  export *
+  module * { export * }
+}

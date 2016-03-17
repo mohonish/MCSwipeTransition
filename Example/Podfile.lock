@@ -1,0 +1,14 @@
+PODS:
+  - MCSwipeTransition (0.1.0)
+
+DEPENDENCIES:
+  - MCSwipeTransition (from `../`)
+
+EXTERNAL SOURCES:
+  MCSwipeTransition:
+    :path: ../
+
+SPEC CHECKSUMS:
+  MCSwipeTransition: 15cc8bc8b126bb393641a249bd451b003f210a70
+
+COCOAPODS: 0.39.0
